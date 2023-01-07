@@ -20,8 +20,8 @@ chmod +x pdiscover.sh
 
 <div align="center"> 
   
-  ![Captura de pantalla 2023-01-07 182707](https://user-images.githubusercontent.com/55983491/211163270-21b7d80f-72c6-47fc-a8b3-79ffdf67f59a.jpg)
-  
+![foto](https://user-images.githubusercontent.com/55983491/211170167-f35446f3-c3a1-45d7-977c-de5e09f90760.jpg)
+
 </div>
 
 
