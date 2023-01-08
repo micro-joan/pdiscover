@@ -14,7 +14,7 @@ Tool for scanning active servers with all their ports by the TCP protocol, the o
 ```
 git clone https://github.com/micro-joan/pdiscover
 chmod +x pdiscover.sh
-./pdiscover 10.10.10 <max_port_to_scan>
+./pdiscover 172.19.0 <max_port_to_scan>
 
 ```
 
